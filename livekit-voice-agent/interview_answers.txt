@@ -1,0 +1,24 @@
+
+Answer:
+James is passionate about AI and has a background in computer science. He is interested in the job title.
+--------------------------------------------------
+
+Answer:
+Mohammed Abdullah's background is in computer science, and he is passionate about AI. He is interested in the job role that was posted.
+--------------------------------------------------
+
+Answer:
+Mohammed has experience with Python, data analytics tools such as Microsoft Excel and Google Sheets, and machine learning frameworks like PyTorch. He has worked on technical projects involving these technologies.
+--------------------------------------------------
+
+Answer:
+Amoud Abdullah has a background in computer science and is passionate about AI. He applied for the position after seeing a relevant job posting.
+--------------------------------------------------
+
+Answer:
+Amoud has experience with Python, machine learning libraries (like Scikit-learn), and data analytics tools such as Excel, Power BI, Microsoft SQL Server, SQLite, and Google Analytics tools. He has developed web-based applications and production-level projects for clients.
+--------------------------------------------------
+
+Answer:
+Abdullah has a background in computer science and is passionate about AI. He is interested in the job opportunity that was posted.
+--------------------------------------------------
